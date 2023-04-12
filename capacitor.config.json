@@ -1,0 +1,6 @@
+{
+  "appId": "com.icipe.ipm.app",
+  "appName": "IPMIcipe",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
